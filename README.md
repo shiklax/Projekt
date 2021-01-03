@@ -8,3 +8,6 @@ Testlink TS_6597
 Katalon studio
 
 w tym repozytorium
+
+test ops 
+https://analytics.katalon.com/team/85428/project/99759
